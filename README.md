@@ -6,8 +6,8 @@ This script and its associated functions reproduce the results shown in the foll
  
 The scripts ran without errors on MATLAB R2020b
 lib folder contains all external dependencies
-TrainedSVM folder contains trained models to discriminate ILAE1 vs ILAE3+
-To reproduce the results please run the runMe.m file.
+TrainedSVM folder contains trained models to discriminate ILAE1 vs ILAE3+. 
+To reproduce the results please run the _runMe.m_ file.
 
 For any queries please contact Nishant Sinha, Newcastle University, UK at nishant.sinha89@gmail.com
 
